@@ -1,1 +1,23 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<BugReport>
+  <ID>19</ID>
+  <Reporter>Nina Prudnikova</Reporter>
+  <ProjectBuild>Music 3.1</ProjectBuild>
+  <Summary>Treck is not plaing after click on</Summary>
+  <Severity>Critical</Severity>
+  <Priority>High</Priority>
+  <Reproducibility>Always</Reproducibility> 
+  <Requirements>AS-2.2</Requirements>
+  <Platform>Chrome 102.0.5005.63</Platform>
+  <OS>Windows 10 Home</OS>
+  <Description>Treck is not plaing after click on</Description>
+  <Steps>
+     <first>Go to the site<homepages xmlns:xlink="https://your.music.com/xlink"/></first>
+     <second>Click on any track</second>
+  </Steps>
+  <ActualResult>Track is playing</ActualResult>
+  <ExpectedResult>Track is not plaing</ExpectedResult>
+  <Comments>It did not reproduce at last checking</Comments>
+  <Attachments>video_1.mp4</Attachments>
+</BugReport>
+  
