@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+	<GitBash basic="true"/>
+	<GitHub>true</GitHub>
+	<JSON>true</JSON>
+	<XML>true</XML>
+	<JS basic="true"/>
+	<Postman>true</Postman>
+	<Charles>true</Charles>
+	<Fiddler>true</Fiddler>
+	<DevTools>true</DevTools>
+	<AndroidStudio>true</AndroidStudio>
+	<XCode>true</XCode>
+	<SQL basic="true"/>
+	<Jmeter>true</Jmeter>
+</skills>
