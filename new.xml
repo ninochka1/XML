@@ -3,6 +3,6 @@
 	<name>Nina</name>
 	<surname>Prudnikova</surname>
 	<age>36</age>
-	<pets null="true"/>
-	<salary category="future desired">good salary</salary>
+	<pets>0</pets>
+	<salary category="future desired">2000$</salary>
 </person>
